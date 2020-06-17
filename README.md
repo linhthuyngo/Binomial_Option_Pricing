@@ -4,7 +4,7 @@ This repo computes American and European option value using binomial approach an
 
 ## Usage
 First, you can enter your own inputs by changing the given inputs in the programme, which is under the line:
-    <p>if __name__ == '__main__':</p>
+`<addr> if __name__ == '__main__':`
 The "opt_type" input only accepts one of the following: "American_call", "American_put", "Euro_call" and "Euro_put"
 Run the model then you will get the current value of the option.
 
